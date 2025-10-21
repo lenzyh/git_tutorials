@@ -6,3 +6,5 @@ def clean_data(values):
     """
     cleaned = [x for x in values if x >= 0]
     return cleaned
+
+## haiz
